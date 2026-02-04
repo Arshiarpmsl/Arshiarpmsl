@@ -11,7 +11,7 @@ Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • Hydra • sq
 
 **Networking**  
 Cisco Packet Tracer (routers, switches, ACLs, firewalls, routing protocols)  
-Network troubleshooting and security controls
+Network troubleshooting and security controls on Cisco Products
 
 **Systems Administration**  
 OS installation, dual booting, and hardening (Windows, Ubuntu, Kali Linux, Tails OS)  
@@ -26,11 +26,10 @@ ImprovMx for Mail forwarding to personal email
 
 ### Featured Projects
 
-- **adora-construction.co.uk** — Full-stack Flask application with Supabase backend, deployed on Render with custom domain (GoDaddy)
-- **redcommand.co.uk** — Personal full-stack web project (Flask), live and deployed  Fly.io with custom domain (GoDaddy)
+- **adora-construction.co.uk** — Full-stack Flask application with Supabase backend, deployed on Render with custom domain (GoDaddy)  Live: https://adora-construction.co.uk
+- **redcommand.co.uk** — Personal and Educational platform for cybersecurity tools and resources full-stack web project (Flask), live and deployed on Fly.io with custom domain (GoDaddy) Live: https://redcommand.co.uk
 - **ma-estate-builder** — Modern real estate platform built with Next.js and Supabase live and deployed  vercel.com with custom domain (GoDaddy)
-  Live: https://ma-estate-builder.vercel.app
-- **cybertrain** — Educational platform for cybersecurity tools and resources
+  Live: https://ma-estate-builder.co.uk
 
 ### Certifications & Achievements
 

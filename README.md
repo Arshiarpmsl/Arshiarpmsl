@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Arshia 👋
 
-<!--
-**Arshiarpmsl/Arshiarpmsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year BSc Cyber Security student at Northumbria University, with hands-on experience in ethical hacking, vulnerability assessment, network defence, systems administration, and full-stack web development.
 
-Here are some ideas to get you started:
+Currently seeking   sandwich placement (summer 2025) as a Junior Penetration Tester, SOC Analyst, or Technical Support Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+**Cybersecurity Tools**  
+Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • Hydra • sqlmap • Hashcat • John the Ripper • Netcat • iptables • Proxychains
+
+**Networking**  
+Cisco Packet Tracer (routers, switches, ACLs, firewalls, routing protocols)  
+Network troubleshooting and security controls
+
+**Systems Administration**  
+OS installation, dual booting, and hardening (Windows, Ubuntu, Kali Linux, Tails OS)  
+Virtualisation (VirtualBox, VMware)
+
+**Programming & Development**  
+Python • JavaScript • Bash scripting • HTML/CSS  
+Flask • React • Next.js • SQLAlchemy  
+PostgreSQL (Supabase) • Git/GitHub • Render • Vercel • fly.io
+Resend for Mail server
+ImprovMx for Mail forwarding to personal email 
+
+### Featured Projects
+
+- **adora-construction.co.uk** — Full-stack Flask application with Supabase backend, deployed on Render with custom domain (GoDaddy)
+- **redcommand.co.uk** — Personal full-stack web project (Flask), live and deployed  Fly.io with custom domain (GoDaddy)
+- **ma-estate-builder** — Modern real estate platform built with Next.js and Supabase live and deployed  vercel.com with custom domain (GoDaddy)
+  Live: https://ma-estate-builder.vercel.app
+- **cybertrain** — Educational platform for cybersecurity tools and resources
+
+### Certifications & Achievements
+
+- Artificial Intelligence Fundamentals (IBM)
+- Cisco Ethical Hacking (Northumbria University)
+- Cisco CCNA 1 — Introduction to Networks
+- Cisco Introduction to Cybersecurity
+- Cisco Python Essentials 1
+- 2nd Place — Claude AI Hackathon 2025 (Northumbria University hosted by Anthropic) — AI-powered learning platform
+
+### Experience Highlights
+
+- Freelance AI Annotator / Training Contributor (Outlier AI & RWS Group, 2025–Present)
+- Freelance Interpreter (Persian–English, DA Languages & RWS Group, 2024–Present)
+- Technical Support & Sales (Mobile Devices, 2019–2021) — Device configuration, diagnostics, and customer-facing troubleshooting
+
+Open to collaborations and opportunities in cybersecurity and software development. Feel free to connect!

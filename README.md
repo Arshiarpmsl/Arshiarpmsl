@@ -28,7 +28,7 @@ ImprovMx for Mail forwarding to personal email
 
 - **adora-construction.co.uk** — Full-stack Flask application with Supabase backend, deployed on Render with custom domain (GoDaddy)  Live: https://adora-construction.co.uk
 - **redcommand.co.uk** — Personal and Educational platform for cybersecurity tools and resources full-stack web project (Flask), live and deployed on Fly.io with custom domain (GoDaddy) Live: https://redcommand.co.uk
-- **ma-estate-builder** — Modern real estate platform built with Next.js and Supabase live and deployed  vercel.com with custom domain (GoDaddy)
+- **ma-estate-builder** — Construction platform built with Next.js and Supabase live and deployed  vercel.com with custom domain (GoDaddy)
   Live: https://ma-estate-builder.co.uk
 
 ### Certifications & Achievements

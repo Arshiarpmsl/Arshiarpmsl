@@ -1,49 +1,40 @@
-# Hi, I'm Arshia 👋
+Hi, I'm Arshia 👋
+Second-year BSc Cyber Security and Networking student at Northumbria University — finished Year 1 with 70%, predicted First Class. Hands-on experience in ethical hacking, network defence, SIEM deployment, and full-stack web development. Currently studying toward CEH and CompTIA Security+.
+Seeking a Summer 2026 sandwich placement as a Junior Penetration Tester, SOC Analyst, or Technical Support Engineer.
 
-Second-year BSc Cyber Security student at Northumbria University, with hands-on experience in ethical hacking, vulnerability assessment, network defence, systems administration, and full-stack web development.
+🔐 Cybersecurity & Networking
+Wazuh (SIEM) • Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • Hydra • sqlmap • Hashcat • John the Ripper • Netcat • iptables • Proxychains • HackTheBox (active)
+Cisco CCNA • VLANs • ACLs • 802.1Q trunking • VLSM subnetting • DHCP • STP • SSH hardening • Packet Tracer
+🖥️ Systems & Virtualisation
+Windows • Kali Linux • Ubuntu • Debian • Tails OS • VirtualBox • VMware • VPS setup
+💻 Programming & Deployment
+Python • Bash • JavaScript • Flask • Next.js • React • SQL • Git/GitHub • Supabase • Render • Vercel • Fly.io
 
-Currently seeking   sandwich placement (summer 2025) as a Junior Penetration Tester, SOC Analyst, or Technical Support Engineer.
+🚀 Featured Projects
 
-### Technical Skills
+adora-construction.co.uk — Full-stack Flask client website with Supabase PostgreSQL, secure admin panel, custom client dashboard, deployed on Render
+ma-estate-builder.co.uk — Next.js client website with Supabase, before/after galleries, automated email workflows via Resend, custom admin dashboard, deployed on Vercel
+redcommand.co.uk — Cybersecurity education platform for the red team community, 20+ monthly users, deployed on Fly.io
+Claude Hackathon 2025 — 2nd place, Northumbria University — AI-powered learning platform (Claude API, React, Python)
 
-**Cybersecurity Tools**  
-Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • Hydra • sqlmap • Hashcat • John the Ripper • Netcat • iptables • Proxychains
 
-**Networking**  
-Cisco Packet Tracer (routers, switches, ACLs, firewalls, routing protocols)  
-Network troubleshooting and security controls on Cisco Products
+🏆 Certifications & Achievements
 
-**Systems Administration**  
-OS installation, dual booting, and hardening (Windows, Ubuntu, Kali Linux, Tails OS)  
-Virtualisation (VirtualBox, VMware)
+Cisco CCNA 1 — Introduction to Networks
+Cisco Ethical Hacking — Northumbria University
+Cisco Introduction to Cybersecurity
+Cisco Python Essentials 1
+AI Fundamentals — IBM
+Currently studying toward: CEH | CompTIA Security+
 
-**Programming & Development**  
-Python • JavaScript • Bash scripting • HTML/CSS  
-Flask • React • Next.js • SQLAlchemy  
-PostgreSQL (Supabase) • Git/GitHub • Render • Vercel • fly.io
-Resend for Mail server
-ImprovMx for Mail forwarding to personal email 
 
-### Featured Projects
+💼 Experience
 
-- **adora-construction.co.uk** — Full-stack Flask application with Supabase backend, deployed on Render with custom domain (GoDaddy)  Live: https://adora-construction.co.uk
-- **redcommand.co.uk** — Personal and Educational platform for cybersecurity tools and resources full-stack web project (Flask), live and deployed on Fly.io with custom domain (GoDaddy) Live: https://redcommand.co.uk
-- **ma-estate-builder** — Construction platform built with Next.js and Supabase live and deployed  vercel.com with custom domain (GoDaddy)
-  Live: https://ma-estate-builder.co.uk
+Cybersecurity Home Lab — Built a Wazuh SIEM server from scratch, deployed agents on Kali Linux and Windows, simulated brute-force and malware attacks, triaged alerts via dashboard
+Freelance Full-Stack Developer — Self-Employed (Sep 2025–Present)
+AI Data Annotator — Outlier AI & RWS Group (2025–Present)
+Interpreter (Persian–English) — DA Languages (Jun 2024–Present)
+Student Ambassador — Cloud Home Accommodation (Aug 2025–Present)
 
-### Certifications & Achievements
 
-- Artificial Intelligence Fundamentals (IBM)
-- Cisco Ethical Hacking (Northumbria University)
-- Cisco CCNA 1 — Introduction to Networks
-- Cisco Introduction to Cybersecurity
-- Cisco Python Essentials 1
-- 2nd Place — Claude AI Hackathon 2025 (Northumbria University hosted by Anthropic) — AI-powered learning platform
-
-### Experience Highlights
-
-- Freelance AI Annotator / Training Contributor (Outlier AI & RWS Group, 2025–Present)
-- Freelance Interpreter (Persian–English, DA Languages & RWS Group, 2024–Present)
-- Technical Support & Sales (Mobile Devices, 2019–2021) — Device configuration, diagnostics, and customer-facing troubleshooting
-
-Open to collaborations and opportunities in cybersecurity and software development. Feel free to connect!
+📫 linkedin.com/in/arshia-masouleh | rasoulpourarshia@gmail.com

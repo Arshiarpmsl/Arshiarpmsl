@@ -36,5 +36,3 @@ AI Data Annotator — Outlier AI & RWS Group (2025–Present)
 Interpreter (Persian–English) — DA Languages (Jun 2024–Present)
 Student Ambassador — Cloud Home Accommodation (Aug 2025–Present)
 
-
-📫 linkedin.com/in/arshia-masouleh | rasoulpourarshia@gmail.com

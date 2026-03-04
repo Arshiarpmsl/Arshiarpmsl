@@ -123,15 +123,14 @@ Built a **Wazuh SIEM** server from scratch — deployed agents on Kali Linux and
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR-ID)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshia-masouleh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasoulpourarshia@gmail.com)
 
 > 🔍 **Actively seeking Summer 2026 sandwich placement** — Junior Pentest · SOC Analyst · Technical Support
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arshiarpmsl&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiarpmsl&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
 </div>

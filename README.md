@@ -3,7 +3,7 @@
 # Arshia
 ### Cyber Security & Networking Student · Northumbria University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Full-Stack+Developer;SOC+%7C+Pentest+%7C+Red+Team;Seeking+Summer+2026+Placement)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Full-Stack+Developer;SOC+%7C+Pentest+%7C+Red+Team;Seeking+2026+Placement)](https://git.io/typing-svg)
 
 </div>
 

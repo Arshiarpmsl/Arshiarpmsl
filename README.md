@@ -28,6 +28,7 @@ Currently studying toward **CEH** and **CompTIA Security+**, actively rooting bo
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square)
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=flat-square)
+mewo
 ![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat-square)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=flat-square)
 ![Netcat](https://img.shields.io/badge/Netcat-4EAA25?style=flat-square)

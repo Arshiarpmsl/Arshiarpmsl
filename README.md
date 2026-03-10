@@ -81,7 +81,7 @@ mewo
 | Project | Stack | Description |
 |---|---|---|
 | [**adora-construction.co.uk**](https://adora-construction.co.uk) | Flask · Supabase · Render | Full-stack client site with secure admin panel and custom client dashboard |
-| [**ma-estate-builder.co.uk**](https://maestatebuilder.co.uk) | Next.js · Supabase · Vercel | Before/after galleries, automated email workflows via Resend, custom admin dashboard |
+| [**maestatebuilder.co.uk**](https://maestatebuilder.co.uk) | Next.js · Supabase · Vercel | Before/after galleries, automated email workflows via Resend, custom admin dashboard |
 | [**redcommand.co.uk**](https://redcommand.co.uk) | Fly.io | Cybersecurity education platform for the red team community — 20+ monthly users |
 | **Claude Hackathon 2025** 🥈 | Claude API · Python | AI-powered learning platform — **2nd place**, Northumbria University |
 

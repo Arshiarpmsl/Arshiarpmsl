@@ -13,7 +13,7 @@
 
 Second-year BSc Cyber Security & Networking student at **Northumbria University** — Year 1 result: **70% (First Class predicted)**. I operate at the intersection of offensive security and full-stack development, spending my time breaking things in the lab and building things for clients.
 
-Currently studying toward **CEH** and **CompTIA Security+**, actively rooting boxes on **HackTheBox**, and seeking a **Summer 2026 sandwich placement** as a Junior Penetration Tester, SOC Analyst, or Technical Support Engineer.
+Currently studying toward **CEH** and **CompTIA Security+**, actively rooting boxes on **HackTheBox**, and seeking a **2026 sandwich placement** as a Junior Penetration Tester, SOC Analyst, or Technical Support Engineer.
 
 ---
 
